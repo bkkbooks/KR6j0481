@@ -1,0 +1,10 @@
+canonical_identifier: bkk:krp/KR6j0481/T/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: line-break, offset: 0, content: '', id: KR6j0481_T_000-0252c13, ed: T, 'n': 0252c13}
+  - {type: line-break, offset: 0, content: '', id: KR6j0481_T_000-0252c14, ed: T, 'n': 0252c14}
+  - {type: line-break, offset: 0, content: '', id: KR6j0481_T_000-0252c15, ed: T, 'n': 0252c15}
+  body: []
+  back: []
+hash: sha256:7e28d0be70014520c40a5e1036115a6c0cdfb60001fbd1e2af31a318cdeb9c23

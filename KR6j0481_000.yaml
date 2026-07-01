@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0481/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大吉祥天女十二名號經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1252b.xml
+    old_id: T21n1252b
+hash: sha256:ccc5c03e7eda12e9e9dd924e9929788d054888e7918307068860c214a7729990

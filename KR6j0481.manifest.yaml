@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6j0481/v1
+canonical_location: https://kanripo.org/bkk/KR6j0481/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說大吉祥天女十二名號經
+  identifiers:
+    alt_id:
+    - T21n1252b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1252b.xml
+    old_id: T21n1252b
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 甲
+  label: 甲
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0481_000.yaml, hash: 'sha256:ccc5c03e7eda12e9e9dd924e9929788d054888e7918307068860c214a7729990'}
+  - {seq: 1, filename: KR6j0481_001.yaml, hash: 'sha256:16f8150703f10913043c6b28806c7864249d7acfe63c2b12e421c8d2b2176f27'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0481_001.markers.yaml, hash: 'sha256:5dacdb968f929dcd290f212028b58d6df38660230b1e93815b8e08342282d2bf'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0481_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 471
+  label: 佛說大吉祥天女十二名號經
+  type: juan
+  level: 1
+hash: sha256:ef4ef94400c10aeb66c1f2a43a41f67215d3129b3eb6553b7fc7f9e298fd4b0f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
