@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0481_000.yaml, hash: 'sha256:ccc5c03e7eda12e9e9dd924e9929788d054888e7918307068860c214a7729990'}
-  - {seq: 1, filename: KR6j0481_001.yaml, hash: 'sha256:16f8150703f10913043c6b28806c7864249d7acfe63c2b12e421c8d2b2176f27'}
+  - {seq: 1, filename: KR6j0481_001.yaml, hash: 'sha256:5e41d9582ddb959556d5f9f399f8efcf24a0d4b96c60a576e63543a193cfff43'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0481_001.markers.yaml, hash: 'sha256:5dacdb968f929dcd290f212028b58d6df38660230b1e93815b8e08342282d2bf'}
+  - {seq: 0, role: markers, filename: assets/KR6j0481_000.markers.yaml, hash: 'sha256:48e34b2314aa55daecf386db540dcf20f6591c45fe8d1b04f6e8c97388d4aa65'}
+  - {seq: 1, role: markers, filename: assets/KR6j0481_001.markers.yaml, hash: 'sha256:66371c69640f62e5be9de8558a21f58c29e2cd0d2500024e5818eea6cf95f3ba'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 佛說大吉祥天女十二名號經
   type: juan
   level: 1
-hash: sha256:ef4ef94400c10aeb66c1f2a43a41f67215d3129b3eb6553b7fc7f9e298fd4b0f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4f40418209157700224e2f8d76b26f6505f87618dcb53c6ce3b12ca4bf700ad4

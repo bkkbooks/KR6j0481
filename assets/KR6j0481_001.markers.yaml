@@ -16,7 +16,6 @@ markers:
   - {type: xml-element, offset: 15, content: '', id: pT21p0252c1805, name: p, role: open, attrs: {'xml:id': pT21p0252c1805, 'cb:place': inline}}
   - {type: punctuation, offset: 25, content: ，, id: KR6j0481_T_001-bkkpn2}
   - {type: line-break, offset: 27, content: '', id: KR6j0481_T_001-0252c19, ed: T, 'n': 0252c19}
-  - {type: substitution, offset: 31, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 40, content: 。, id: KR6j0481_T_001-bkkpn3}
   - {type: line-break, offset: 43, content: '', id: KR6j0481_T_001-0252c20, ed: T, 'n': 0252c20}
   - {type: punctuation, offset: 50, content: 、, id: KR6j0481_T_001-bkkpn4}
@@ -156,7 +155,6 @@ markers:
   - {type: punctuation, offset: 426, content: 。, id: KR6j0481_T_001-bkkpn64}
   - {type: punctuation, offset: 426, content: 」, id: KR6j0481_T_001-bkkpn65}
   - {type: line-break, offset: 428, content: '', id: KR6j0481_T_001-0253a16, ed: T, 'n': 0253a16}
-  - {type: substitution, offset: 438, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 443, content: ，, id: KR6j0481_T_001-bkkpn66}
   - {type: line-break, offset: 444, content: '', id: KR6j0481_T_001-0253a17, ed: T, 'n': 0253a17}
   - {type: punctuation, offset: 455, content: ，, id: KR6j0481_T_001-bkkpn67}
@@ -197,4 +195,4 @@ markers:
   - {type: punctuation, offset: 471, content: 􄚩, id: KR6j0481_T_001-bkkpn94}
   - {type: xml-element, offset: 471, content: '', id: pT21p0253a2101_end, name: p, role: close, attrs: {'xml:lang': sa-Sidd, 'cb:type': dharani, 'xml:id': pT21p0253a2101}}
   back: []
-hash: sha256:5dacdb968f929dcd290f212028b58d6df38660230b1e93815b8e08342282d2bf
+hash: sha256:66371c69640f62e5be9de8558a21f58c29e2cd0d2500024e5818eea6cf95f3ba
